@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-I am currently a Senior Software Engineer at [Loveholidays](https://careers.loveholidays.com/) 
+I am currently a Senior Software Engineer at [Loveholidays](https://careers.loveholidays.com/) and Owner of [The Sauce Forge](https://thesauceforge.com/) my start up hot sauce brand / business
 
-I am passionate about building rock solid async distributed systems, engaging user experiences, and learning some cool stuff along the way
+My main passions are growing my fledgling business and being the best software engineer I can, all while learning some cool stuff along the way.
 
 - 📙 My website and blog: [danclarke.dev](https://danclarke.dev/)
 - 🧳 My Career so far: [Linkedin](https://www.linkedin.com/in/danielclarkesoftwareengineer/)
-- 🦾 Currently Studing to become a Certified Kubernetes Application Developer
-- 🌶️ Currently aspiring to grow, ferment, produce and sell hot sauces at church fayres by the end of the year 🏴‍☠️
+- ⚡️ Focusinng on building rock solid async distributed systems and  engaging user experiences,
 - 📩 Ask me about: Growing Chilis, fermentation and being a Dad
