@@ -8,4 +8,4 @@ My main passions are growing my fledgling business and being the best software e
 - 🔥 Buy some hot sauce from me or come see me at a market [thesauceforge.com](https://thesauceforge.com/)
 - 🧳 My Career so far: [Linkedin](https://www.linkedin.com/in/danielclarkesoftwareengineer/)
 - ⚡️ Focusing on building rock solid async distributed systems and engaging user experiences
-  - 📩 Ask me about: building Gunpla, growing chilis, fermentation and being a dad
+- 📩 Ask me about: building Gunpla, growing chilis, fermentation and being a dad
